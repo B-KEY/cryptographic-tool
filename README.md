@@ -22,6 +22,7 @@ cd <your-repository>
 Install dependencies (if necessary):
 bash
 Copy code
+
 # Example: Install required Python packages
 pip install -r requirements.txt
 Run the program:

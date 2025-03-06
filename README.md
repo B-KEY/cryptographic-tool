@@ -31,7 +31,7 @@ cryptography
 1. Clone the repository:
 
 bash
-git clone https://github.com/B-KEY/crypto-tool.git
+git clone https://github.com/B-KEY/cryptographic-tool.git
 cd crypto-tool
 
 2. Install required packages:
